@@ -1,0 +1,51 @@
+a = int(input("number:"))
+b = int(input("number:"))
+c = int(input("number"))
+
+print(a - b * c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

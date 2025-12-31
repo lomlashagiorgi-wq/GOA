@@ -79,3 +79,6 @@ forward(75)
 
 
 exitonclick()
+
+name = 123
+print
