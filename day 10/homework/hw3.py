@@ -1,8 +1,7 @@
-num1 = "hause"
-num2 = 23
+num1 = (input("number:"))
+num2 = (input("number:"))
 
-print(input(num1 * num2))
-
+print(num1 * num2)
 
 
 
