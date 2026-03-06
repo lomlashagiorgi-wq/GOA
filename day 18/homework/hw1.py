@@ -1,1 +1,1 @@
-# while loop სა და for loop  განსხვავდება დანიშნულებით
+#for loop სა და  while loop  განსხვავდება დანიშნულებით
