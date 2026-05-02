@@ -1,0 +1,1 @@
+#  logical operators-ამოწმებს კოდებს და გამოაქვს tru/false
